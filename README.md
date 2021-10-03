@@ -21,20 +21,19 @@ Create a virtual environment with python 3.7,
 
     $  pip install -r requirements.txt
     
-## How to use
-
+## Download
 * **Download dataset**  
 Please visit this [project page](http://59.108.48.34/tiki/FGCrossNet/).
 * **Pretrained model**
 Download the pretrained [SAN](https://github.com/hszhao/SAN) model.
 
-* **Training**  
+## Training
    * If you want to train the whole model from beginning, please Activate virtual environment (e.g. conda) and then run the script.
       ```python
       $  python main.py
       ```
    * Or directly utilize our trained model from [Baidu Cloud](https://pan.baidu.com/s/1GlDbEbZizk5jncEwXlbpig) with a password `fwb8`.
-* **Testing**  
+## Testing 
    * Run `test.py` to extract image, audio and text features.
       ```python
       $  python test.py
@@ -44,12 +43,7 @@ Download the pretrained [SAN](https://github.com/hszhao/SAN) model.
       $  python video_feature.py
       $  python video_feature_cal.py
       ```
-
-* **Results**
- 
+## Results
  &emsp;&emsp;The final experimental results are shown in the following table：    
  <div align=center><img  src="https://github.com/NUST-Machine-Intelligence-Laboratory/SAFGCMHN/blob/main/fig/table2.png"/></div>
  <div align=center><img  src="https://github.com/NUST-Machine-Intelligence-Laboratory/SAFGCMHN/blob/main/fig/table3.png"/></div>
-
-
- 
