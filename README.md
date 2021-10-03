@@ -38,7 +38,7 @@ Download the pretrained [SAN](https://github.com/hszhao/SAN) model.
       ```python
       $  python test.py
       ```
-    * Extract video features.
+   * Extract video features.
       ```python
       $  python video_feature.py
       $  python video_feature_cal.py
