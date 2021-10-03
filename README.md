@@ -48,7 +48,8 @@ Download the pretrained [SAN](https://github.com/hszhao/SAN) model.
 * **Results**
  
  &emsp;&emsp;The final experimental results are shown in the following table：    
- ![](https://github.com/NUST-Machine-Intelligence-Laboratory/SAFGCMHN/blob/main/fig/table2.png)
- ![](https://github.com/NUST-Machine-Intelligence-Laboratory/SAFGCMHN/blob/main/fig/table3.png)
+ <div align=center><img  src="https://github.com/NUST-Machine-Intelligence-Laboratory/SAFGCMHN/blob/main/fig/table2.png"/></div>
+ <div align=center><img  src="https://github.com/NUST-Machine-Intelligence-Laboratory/SAFGCMHN/blob/main/fig/table3.png"/></div>
+
 
  
