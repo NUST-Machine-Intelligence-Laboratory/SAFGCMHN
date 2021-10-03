@@ -3,7 +3,7 @@
 This is the Pytorch implementation for our paper: **Self-Attention based Fine-Grained Cross-Media Hybrid Network**
 ## Network Architecture
 The architecture of our proposed approach is as follows
-<div align=center><img  src="https://github.com/NUST-Machine-Intelligence-Laboratory/GASA/blob/main/fig/architecture.png"/></div>
+<div align=center><img  src="https://github.com/NUST-Machine-Intelligence-Laboratory/SAFGCMHN/blob/main/fig/architecture.png"/></div>
 
 ## Installation
 **Environment**  
